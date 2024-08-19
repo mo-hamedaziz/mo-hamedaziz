@@ -1,0 +1,33 @@
+name: Update GitHub Profile
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run this workflow every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README
+        run: |
+          # Fetch latest data and update README.md
+          curl -s "https://github-readme-stats.vercel.app/api?username=mo-hamedaziz&show_icons=true&locale=en" > stats.json
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs?username=mo-hamedaziz&show_icons=true&locale=en&layout=compact" > top-langs.json
+          
+          # Extract data
+          STATS_URL=$(jq -r '.url' stats.json)
+          LANGS_URL=$(jq -r '.url' top-langs.json)
+          
+          # Update README.md with new data
+          echo "![GitHub Stats](${STATS_URL})" > README.md
+          echo "![Top Languages](${LANGS_URL})" >> README.md
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'README.md'
+          message: 'Update profile README'
