@@ -12,19 +12,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Fetch GitHub Stats
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=mo-hamedaziz&show_icons=true&locale=en" -o stats.png
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs?username=mo-hamedaziz&show_icons=true&locale=en&layout=compact" -o top-langs.png
+
       - name: Update README
         run: |
-          # Fetch latest data and update README.md
-          curl -s "https://github-readme-stats.vercel.app/api?username=mo-hamedaziz&show_icons=true&locale=en" > stats.json
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs?username=mo-hamedaziz&show_icons=true&locale=en&layout=compact" > top-langs.json
-          
-          # Extract data
-          STATS_URL=$(jq -r '.url' stats.json)
-          LANGS_URL=$(jq -r '.url' top-langs.json)
-          
           # Update README.md with new data
-          echo "![GitHub Stats](${STATS_URL})" > README.md
-          echo "![Top Languages](${LANGS_URL})" >> README.md
+          echo "# Mohamed Aziz Bchini" > README.md
+          echo "## GitHub Stats" >> README.md
+          echo "![GitHub Stats](stats.png)" >> README.md
+          echo "## Top Languages" >> README.md
+          echo "![Top Languages](top-langs.png)" >> README.md
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
