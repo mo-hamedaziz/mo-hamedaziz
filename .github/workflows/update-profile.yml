@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
       - name: Fetch GitHub Stats
         run: |
@@ -31,3 +33,7 @@ jobs:
         with:
           add: 'README.md'
           message: 'Update profile README'
+          author_name: 'GitHub Actions'
+          author_email: 'github-actions@github.com'
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
