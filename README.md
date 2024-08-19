@@ -102,3 +102,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mo-hamedaziz&show_icons=true&locale=en" alt="mo-hamedaziz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-hamedaziz&" alt="mo-hamedaziz" /></p>
+
+![GitHub followers](https://img.shields.io/github/followers/mo-hamedaziz?style=social)
+![GitHub stars](https://img.shields.io/github/stars/mo-hamedaziz?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mo-hamedaziz?style=social)
+
