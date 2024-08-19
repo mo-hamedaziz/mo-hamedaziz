@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently deepening my knowledge in **Kubernetes** for container orchestration and **Terraform** for Infrastructure as Code (IaC). I'm also exploring advanced topics in **cloud security** and **automated compliance checks**.
 
+- 🛡️ I have a strong background in **cybersecurity**, especially in **secure code reviews**, where I apply best practices to ensure the security and robustness of codebases. This expertise complements my DevSecOps skills and helps in building secure and reliable systems.
+
 - 👨‍💻 You can explore all my projects, including my latest DevSecOps practices and automation scripts, at [http://aziz-bchini.me](http://aziz-bchini.me). I regularly update my portfolio with new learnings and implementations.
 
 - 📫 Feel free to reach out to me at **mohamedaziz.bchini@insat.ucar.tn**. I'm always open to discussing new projects, collaborations, or just sharing knowledge on DevSecOps and security automation.
