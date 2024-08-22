@@ -193,15 +193,8 @@
 
 <!-- to be added: cyber security tools, security scanning tools, version control tools, team management tools, operating systems -->
 
-<div id=github-stats style="text-align: center;">
-    <p>
-        <img src="https://myreadme.vercel.app/api/embed/mo-hamedaziz?panels=userstatistics&panels=commitgraph" alt="GitHub Stats" />
-    </p>
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-hamedaziz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </p>
-    <p>
-        <img src="https://streak-stats.demolab.com?user=mo-hamedaziz" alt="GitHub Streak" />
-    </p>
-</div>
+<p><img src="https://myreadme.vercel.app/api/embed/mo-hamedaziz?panels=userstatistics&panels=commitgraph" alt="GitHub Stats" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-hamedaziz&show_icons=true&locale=en&layout=compact" alt="mo-hamedaziz" /></p>
+
+<p><img src="https://streak-stats.demolab.com?user=mo-hamedaziz" alt="GitHub Streak" /></p>
