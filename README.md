@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/mohamed-aziz-bchini/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Aziz Bchini" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/mohamed-aziz-bchini/" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamed-aziz-bchini%2F&subtitle=@Aziz+Bchini&size=square" alt="Mohamed Aziz Bchini">
   </a>
 </p>
 
@@ -193,8 +193,8 @@
 
 <!-- to be added: cyber security tools, security scanning tools, version control tools, team management tools, operating systems -->
 
-<p><img src="https://myreadme.vercel.app/api/embed/mo-hamedaziz?panels=userstatistics&panels=commitgraph" alt="GitHub Stats" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-hamedaziz&show_icons=true&locale=en&layout=compact" alt="mo-hamedaziz" /></p>
-
-<p><img src="https://streak-stats.demolab.com?user=mo-hamedaziz" alt="GitHub Streak" /></p>
+<div id=github-stats align=center style="display: flex; justify-content: space-between;">
+  <img src="https://myreadme.vercel.app/api/embed/mo-hamedaziz?panels=commitgraph" alt="GitHub Stats" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-hamedaziz&show_icons=true&locale=en&layout=compact" alt="mo-hamedaziz" style="height: 200px;" />
+  <img src="https://streak-stats.demolab.com?user=mo-hamedaziz" alt="GitHub Streak" style="height: 200px;" />
+</div>
