@@ -195,6 +195,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-hamedaziz&show_icons=true&locale=en&layout=compact" alt="mo-hamedaziz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mo-hamedaziz&show_icons=true&locale=en" alt="mo-hamedaziz" /></p>
+<p><img src="https://myreadme.vercel.app/api/embed/mo-hamedaziz?panels=userstatistics&panels=commitgraph" alt="GitHub Stats" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mo-hamedaziz" alt="GitHub Streak" /></a>
