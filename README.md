@@ -23,6 +23,8 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
+<!-- web dev, devops and infra eng, cyber sec -->
+
 <h3 align="center">Web Development</h3>
 
 <div align="center">
