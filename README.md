@@ -9,7 +9,7 @@
 
 - 👨‍💻 You can explore all my projects, including my latest DevSecOps practices and automation scripts, at [http://aziz-bchini.me](http://aziz-bchini.me). I regularly update my portfolio with new learnings and implementations.
 
-- 📫 Feel free to reach out to me at **mohamedaziz.bchini@insat.ucar.tn**. I'm always open to discussing new projects, collaborations, or just sharing knowledge on DevSecOps and security automation.
+- 📫 Feel free to reach out to me at :envelope: **mohamedaziz.bchini@insat.ucar.tn**. I'm always open to discussing new projects, collaborations, or just sharing knowledge on DevSecOps and security automation.
 
 
 <!--
