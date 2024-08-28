@@ -152,23 +152,40 @@
 </div>
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="2" align="center" style="color: white;">Operating Systems</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="50" height="50"/><br>Windows
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/><br>Linux
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <div align="center">
@@ -195,6 +212,10 @@
 </div>
 
 <!-- to be added: cyber security tools, security scanning tools, version control tools, team management tools, operating systems -->
+<h3 align="center">Cyber Security tools</h3>
+
+
+<h2 align="center">:bar_chart: Github Stats</h2>
 
 <div id=github-stats align=center style="display: flex; justify-content: space-between;">
   <img src="https://myreadme.vercel.app/api/embed/mo-hamedaziz?panels=commitgraph" alt="GitHub Stats" style="height: 200px;" />
