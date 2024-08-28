@@ -78,7 +78,7 @@
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="4" align="center" style="color: white;">Backend</th>
+      <th colspan="5" align="center" style="color: white;">Backend</th>
     </tr>
   </thead>
   <tbody>
@@ -122,7 +122,7 @@
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
       </td>
       <td align="center" style="border: none;">
-        <img src="[https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png](https://upload.wikimedia.org/wikipedia/commons/9/99/Logo_M_SQL_Server.png)" alt="MSSQL" width="100" height="40"/><br>MSSQL
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Logo_M_SQL_Server.png" alt="MSSQL" width="100" height="40"/><br>MSSQL
       </td>
     </tr>
   </tbody>
@@ -175,7 +175,7 @@
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="2" align="center" style="color: white;">Infrastructure as Code</th>
+      <th colspan="3" align="center" style="color: white;">Infrastructure as Code</th>
     </tr>
   </thead>
   <tbody>
@@ -183,8 +183,11 @@
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>Terraform
       </td>
-        <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=ansible" alt="Terraform" width="50" height="50"/><br>Ansible
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="50" height="50"/><br>Ansible
+       </td>
+      <td align="center" style="border: none;">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=vagrant" alt="Vagrant" width="50" height="50"/><br>Vagrant
        </td>
     </tr>
   </tbody>
