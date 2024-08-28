@@ -212,6 +212,8 @@
 </div>
 
 <!-- to be added: cyber security tools, security scanning tools, version control tools, team management tools, operating systems -->
+<!-- add devops ci/cd tools: jenkins, github actions, ... -->
+<!-- add cyber security tools: scanning (SAST, DAST, SCA) and dashboarding tools -->
 <h3 align="center">Cyber Security tools</h3>
 
 
