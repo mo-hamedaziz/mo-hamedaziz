@@ -14,7 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-aziz-bchini/" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamed-aziz-bchini%2F&subtitle=@Aziz+Bchini&size=square" alt="Mohamed Aziz Bchini">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamed-aziz-bchini%2F&subtitle=@Aziz+Bchini&size=square" alt="Linkedin">
+  </a>
+  <a href="https://medium.com/@mohamedaziz0801" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.medium.com&subtitle=@Aziz+Bchini&size=square" alt="Medium">
   </a>
 </p>
 
