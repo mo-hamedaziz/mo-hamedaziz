@@ -11,6 +11,13 @@
 
 - 📫 Feel free to reach out to me at **mohamedaziz.bchini@insat.ucar.tn**. I'm always open to discussing new projects, collaborations, or just sharing knowledge on DevSecOps and security automation.
 
+
+<!--
+<h3>📕 My Latest Blog Posts</h3>
+BLOG-POST-LIST:START
+BLOG-POST-LIST:END
+-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-aziz-bchini/" target="_blank">
