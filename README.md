@@ -229,7 +229,7 @@ BLOG-POST-LIST:END
 <h3 align="center">Cyber Security tools</h3>
 
 
-<h2 align="center">:bar_chart: Github Stats</h2>
+<h2 align="center">:bar_chart: My Github Stats</h2>
 
 <div id=github-stats align=center style="display: flex; justify-content: space-between;">
   <img src="https://myreadme.vercel.app/api/embed/mo-hamedaziz?panels=commitgraph" alt="GitHub Stats" style="height: 200px;" />
