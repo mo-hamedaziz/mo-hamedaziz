@@ -28,11 +28,11 @@ BLOG-POST-LIST:END
   </a>
 </p>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h1 align="center">🛠️ Tech Stack</h1>
 
 <!-- web dev, devops and infra eng, cyber sec -->
 
-<h3 align="center">Web Development</h3>
+<h2 align="center">Web Development</h2>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -141,7 +141,7 @@ BLOG-POST-LIST:END
 </table>
 </div>
 
-<h3 align="center">Cloud Computing & DevOps</h3>
+<h2 align="center">Cloud & DevOps</h2>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -156,7 +156,13 @@ BLOG-POST-LIST:END
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
       </td>
       <td align="center" style="border: none;">
+        <img src="https://raw.githubusercontent.com/docker-library/docs/471fa6e4cb58062ccbf91afc111980f9c7004981/swarm/logo.png" alt="Docker Swarm" width="50" height="50"/><br>Docker Swarm
+      </td>
+      <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=helm" alt="Helm" width="50" height="50"/><br>Helm
       </td>
     </tr>
   </tbody>
@@ -165,35 +171,119 @@ BLOG-POST-LIST:END
 
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <thead>
-      <tr>
-        <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
-      </tr>
-    </thead>
     <tbody>
       <tr>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
+        <td colspan="2" align="center" style="border: none;">
+          <table style="background-color: black; color: white; border: none;">
+            <thead>
+              <tr>
+                <th colspan="2" align="center" style="color: white;">Cloud Providers</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" style="border: none;">
+                  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
+                </td>
+                <td align="center" style="border: none;">
+                  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </td>
-        <td align="center" style="border: none;">
-          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+        <td colspan="2" align="center" style="border: none;">
+          <table style="background-color: black; color: white; border: none;">
+            <thead>
+              <tr>
+                <th colspan="2" align="center" style="color: white;">Operating Systems</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" style="border: none;">
+                  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="50" height="50"/><br>Windows
+                </td>
+                <td align="center" style="border: none;">
+                  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/><br>Linux
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </td>
       </tr>
     </tbody>
   </table>
+</div>
+
+<div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
     <thead>
       <tr>
-        <th colspan="2" align="center" style="color: white;">Operating Systems</th>
+        <th colspan="3" align="center" style="color: white;">Infrastructure</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="50" height="50"/><br>Windows
+        <td colspan="1" align="center" style="border: none;">
+          <table style="background-color: black; color: white; border: none;">
+            <thead>
+              <tr>
+                <th colspan="2" align="center" style="color: white;">IaC</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" style="border: none;">
+                  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>Terraform
+                </td>
+                <td align="center" style="border: none;">
+                  <img src="https://go-skill-icons.vercel.app/api/icons?i=vagrant" alt="Vagrant" width="50" height="50"/><br>Vagrant
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/><br>Linux
+        <td colspan="1" align="center" style="border: none;">
+          <table style="background-color: black; color: white; border: none;">
+            <thead>
+              <tr>
+                <th colspan="3" align="center" style="color: white;">Configuration Management</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" style="border: none;">
+                  <img src="https://skillicons.dev/icons?i=ansible" alt="Windows" width="50" height="50"/><br>Ansible
+                </td>
+                <td align="center" style="border: none;">
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoSO6KzOV-jFJxQWAw_iOR3C7P2iMXHf1MIEsi-zxsxjgYBmzz8Y9KBhkchA5IHWj_pCw&usqp=CAU" alt="Chef" width="50" height="50"/><br>Chef
+                </td>
+                <td align="center" style="border: none;">
+                  <img src="https://www.goetas.com/img/services/puppet-logo.png" alt="Puppet" width="50" height="50"/><br>Puppet
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+        <td colspan="1" align="center" style="border: none;">
+          <table style="background-color: black; color: white; border: none;">
+            <thead>
+              <tr>
+                <th colspan="2" align="center" style="color: white;">API Gateways</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" style="border: none;">
+                  <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx" alt="Nginx" width="50" height="50"/><br>Nginx
+                </td>
+                <td align="center" style="border: none;">
+                  <img src="https://media.trustradius.com/vendor-logos/2V/Hk/9T8XEAI88GT3.PNG" alt="Kong" width="50" height="50"/><br>Kong
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </td>
       </tr>
     </tbody>
@@ -204,20 +294,17 @@ BLOG-POST-LIST:END
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="3" align="center" style="color: white;">Infrastructure as Code</th>
+      <th colspan="2" align="center" style="color: white;">Monitoring & Logging</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>Terraform
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/775px-Prometheus_software_logo.svg.png" alt="Prometheus" width="50" height="50"/><br>Prometheus
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="50" height="50"/><br>Ansible
-       </td>
-      <td align="center" style="border: none;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=vagrant" alt="Vagrant" width="50" height="50"/><br>Vagrant
-       </td>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana" alt="Grafana" width="50" height="50"/><br>Grafana
+      </td>
     </tr>
   </tbody>
 </table>
