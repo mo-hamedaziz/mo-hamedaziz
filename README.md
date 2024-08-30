@@ -147,6 +147,29 @@ BLOG-POST-LIST:END
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
+      <th colspan="3" align="center" style="color: white;">CI/CD Pipeline</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50" height="50"/><br>Jenkins
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=github" alt="Github Actions" width="50" height="50"/><br>Github Actions
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=argocd" alt="ArgoCD" width="50" height="50"/><br>ArgoCD
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
       <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
     </tr>
   </thead>
@@ -313,7 +336,33 @@ BLOG-POST-LIST:END
 <!-- to be added: cyber security tools, security scanning tools, version control tools, team management tools, operating systems -->
 <!-- add devops ci/cd tools: jenkins, github actions, ... -->
 <!-- add cyber security tools: scanning (SAST, DAST, SCA) and dashboarding tools -->
-<h3 align="center">Cyber Security tools</h3>
+<h2 align="center">Cyber Security tools</h2>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Vulnerability Scanning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Nmap
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://raw.githubusercontent.com/docker-library/docs/471fa6e4cb58062ccbf91afc111980f9c7004981/swarm/logo.png" alt="Docker Swarm" width="50" height="50"/><br>Nessus
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>OpenVAS
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=helm" alt="Helm" width="50" height="50"/><br>Metasploit
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div
 
 
 <h2 align="center">:bar_chart: My Github Stats</h2>
