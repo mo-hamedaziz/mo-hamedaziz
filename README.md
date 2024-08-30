@@ -28,9 +28,8 @@ BLOG-POST-LIST:END
   </a>
 </p>
 
+<br><br>
 <h1 align="center">🛠️ Tech Stack</h1>
-
-<!-- web dev, devops and infra eng, cyber sec -->
 
 <h2 align="center">Web Development</h2>
 
@@ -141,6 +140,7 @@ BLOG-POST-LIST:END
 </table>
 </div>
 
+<br><br>
 <h2 align="center">Cloud & DevOps</h2>
 
 <div align="center">
@@ -333,38 +333,52 @@ BLOG-POST-LIST:END
 </table>
 </div>
 
-<!-- to be added: cyber security tools, security scanning tools, version control tools, team management tools, operating systems -->
-<!-- add devops ci/cd tools: jenkins, github actions, ... -->
-<!-- add cyber security tools: scanning (SAST, DAST, SCA) and dashboarding tools -->
+<br><br>
 <h2 align="center">Cyber Security tools</h2>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Vulnerability Scanning</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Nmap
+        <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" alt="SonarQube" width="50" height="50"/><br>SonarQube
       </td>
       <td align="center" style="border: none;">
-        <img src="https://raw.githubusercontent.com/docker-library/docs/471fa6e4cb58062ccbf91afc111980f9c7004981/swarm/logo.png" alt="Docker Swarm" width="50" height="50"/><br>Nessus
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=snyk" alt="Snyk" width="50" height="50"/><br>Snyk
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>OpenVAS
+        <img src="https://lewisardern.gallerycdn.vsassets.io/extensions/lewisardern/semgrep-snippets/0.0.5/1648653552484/Microsoft.VisualStudio.Services.Icons.Default" alt="Semgrep" width="50" height="50"/><br>Semgrep
       </td>
       <td align="center" style="border: none;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=helm" alt="Helm" width="50" height="50"/><br>Metasploit
+        <img src="https://dependency-check.gallerycdn.vsassets.io/extensions/dependency-check/dependencycheck/6.2.3/1712759779885/Microsoft.VisualStudio.Services.Icons.Default" alt="OWASP Dependency Check" width="50" height="50"/><br>OWASP Dependency Check
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://appsecmap.com/images/d/Trivy.png" alt="Trivy" width="50" height="50"/><br>Trivy
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://logos.bugcrowdusercontent.com/logos/2376/fdfa/651b17be/051e0245d787d1f71246d515e88a8564_zap256x256-oversize.png" alt="OWASP ZAP" width="50" height="50"/><br>OWASP ZAP
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://w7.pngwing.com/pngs/276/718/png-transparent-burp-suite-alt-macos-bigsur-icon.png" alt="Burp Suite" width="50" height="50"/><br>Burp Suite
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://atomrace.com/blog/wp-content/uploads/2017/10/metasploit-logo.png" alt="Metasploit" width="50" height="50"/><br>Metasploit
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://avatars.githubusercontent.com/u/35606478?s=200&v=4" alt="DefectDojo" width="50" height="50"/><br>DefectDojo
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://avatars.githubusercontent.com/u/40258585?s=280&v=4" alt="Dependency-Track" width="50" height="50"/><br>Dependency-Track
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/HashiCorp_Logo_no_text.png" alt="HashiCorp Vault" width="50" height="50"/><br>HashiCorp Vault
       </td>
     </tr>
   </tbody>
 </table>
-</div
+</div>
 
-
+<br><br>
 <h2 align="center">:bar_chart: My Github Stats</h2>
 
 <div id=github-stats align=center style="display: flex; justify-content: space-between;">
