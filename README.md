@@ -142,6 +142,7 @@ BLOG-POST-LIST:END
 </div>
 
 <br><br>
+<!-- flatten the Cloud & DevOps skills, to be like the cybersec section -->
 <h2 align="center">Cloud & DevOps</h2>
 
 <div align="center">
