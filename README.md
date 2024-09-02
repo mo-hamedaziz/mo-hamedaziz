@@ -31,6 +31,7 @@ BLOG-POST-LIST:END
 <br><br>
 <h1 align="center">🛠️ Tech Stack</h1>
 
+<!-- flatten the web dev skills, to be like the cybersec section -->
 <h2 align="center">Web Development</h2>
 
 <div align="center">
