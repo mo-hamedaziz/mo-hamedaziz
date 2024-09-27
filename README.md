@@ -36,11 +36,11 @@ BLOG-POST-LIST:END
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
+<!--   <thead>
     <tr>
       <th colspan="8" align="center" style="color: white;">Frontend</th>
     </tr>
-  </thead>
+  </thead> -->
   <tbody>
     <tr>
       <td align="center" style="border: none;">
@@ -79,13 +79,10 @@ BLOG-POST-LIST:END
         </a>
         <br>CSS
       </td>
-    </tr>
+<!--     </tr>
   </tbody>
 </table>
 </div>
-
-
-
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -94,7 +91,7 @@ BLOG-POST-LIST:END
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr> -->
       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
@@ -110,11 +107,10 @@ BLOG-POST-LIST:END
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=nestjs" width="50" height="50"/><br>NestJS
       </td>
-    </tr>
+<!--     </tr>
   </tbody>
 </table>
 </div>
-
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -123,7 +119,7 @@ BLOG-POST-LIST:END
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr> -->
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
@@ -147,11 +143,11 @@ BLOG-POST-LIST:END
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
+<!--   <thead>
     <tr>
       <th colspan="3" align="center" style="color: white;">CI/CD Pipeline</th>
     </tr>
-  </thead>
+  </thead> -->
   <tbody>
     <tr>
       <td align="center" style="border: none;">
@@ -163,11 +159,10 @@ BLOG-POST-LIST:END
       <td align="center" style="border: none;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=argocd" alt="ArgoCD" width="50" height="50"/><br>ArgoCD
       </td>
-    </tr>
+<!--     </tr>
   </tbody>
 </table>
 </div>
-
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -176,7 +171,7 @@ BLOG-POST-LIST:END
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr> -->
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
       </td>
@@ -189,16 +184,15 @@ BLOG-POST-LIST:END
       <td align="center" style="border: none;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=helm" alt="Helm" width="50" height="50"/><br>Helm
       </td>
-    </tr>
+<!--     </tr>
   </tbody>
 </table>
-</div>
-
-<div align="center">
+</div> -->
+<!-- <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
     <tbody>
-      <tr>
-        <td colspan="2" align="center" style="border: none;">
+      <tr> -->
+<!--         <td colspan="2" align="center" style="border: none;">
           <table style="background-color: black; color: white; border: none;">
             <thead>
               <tr>
@@ -206,14 +200,14 @@ BLOG-POST-LIST:END
               </tr>
             </thead>
             <tbody>
-              <tr>
+              <tr> -->
                 <td align="center" style="border: none;">
                   <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
                 </td>
                 <td align="center" style="border: none;">
                   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
                 </td>
-              </tr>
+<!--               </tr>
             </tbody>
           </table>
         </td>
@@ -225,22 +219,21 @@ BLOG-POST-LIST:END
               </tr>
             </thead>
             <tbody>
-              <tr>
+              <tr> -->
                 <td align="center" style="border: none;">
                   <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="50" height="50"/><br>Windows
                 </td>
                 <td align="center" style="border: none;">
                   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/><br>Linux
                 </td>
-              </tr>
+<!--               </tr>
             </tbody>
           </table>
-        </td>
-      </tr>
+        </td> -->
+<!--       </tr>
     </tbody>
   </table>
 </div>
-
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
     <thead>
@@ -258,14 +251,14 @@ BLOG-POST-LIST:END
               </tr>
             </thead>
             <tbody>
-              <tr>
+              <tr> -->
                 <td align="center" style="border: none;">
                   <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>Terraform
                 </td>
                 <td align="center" style="border: none;">
                   <img src="https://go-skill-icons.vercel.app/api/icons?i=vagrant" alt="Vagrant" width="50" height="50"/><br>Vagrant
                 </td>
-              </tr>
+<!--               </tr>
             </tbody>
           </table>
         </td>
@@ -277,7 +270,7 @@ BLOG-POST-LIST:END
               </tr>
             </thead>
             <tbody>
-              <tr>
+              <tr> -->
                 <td align="center" style="border: none;">
                   <img src="https://skillicons.dev/icons?i=ansible" alt="Windows" width="50" height="50"/><br>Ansible
                 </td>
@@ -287,7 +280,7 @@ BLOG-POST-LIST:END
                 <td align="center" style="border: none;">
                   <img src="https://www.goetas.com/img/services/puppet-logo.png" alt="Puppet" width="50" height="50"/><br>Puppet
                 </td>
-              </tr>
+<!--               </tr>
             </tbody>
           </table>
         </td>
@@ -299,14 +292,14 @@ BLOG-POST-LIST:END
               </tr>
             </thead>
             <tbody>
-              <tr>
+              <tr> -->
                 <td align="center" style="border: none;">
                   <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx" alt="Nginx" width="50" height="50"/><br>Nginx
                 </td>
                 <td align="center" style="border: none;">
                   <img src="https://media.trustradius.com/vendor-logos/2V/Hk/9T8XEAI88GT3.PNG" alt="Kong" width="50" height="50"/><br>Kong
                 </td>
-              </tr>
+<!--               </tr>
             </tbody>
           </table>
         </td>
@@ -314,7 +307,6 @@ BLOG-POST-LIST:END
     </tbody>
   </table>
 </div>
-
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -323,7 +315,7 @@ BLOG-POST-LIST:END
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr> -->
       <td align="center" style="border: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/775px-Prometheus_software_logo.svg.png" alt="Prometheus" width="50" height="50"/><br>Prometheus
       </td>
