@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://github.com/mo-hamedaziz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=326CE5&center=true&vCenter=true&width=640&lines=Hey+there!+I'm+Aziz+%F0%9F%91%8B;I+build+reliable+cloud-native+platforms;Kubernetes+%E2%80%A2+IaC+%E2%80%A2+GitOps+%E2%80%A2+SRE;Automating+the+boring+stuff;Security+baked+in%2C+not+bolted+on" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=326CE5&center=true&vCenter=true&width=640&lines=Hey+there!+I'm+Aziz+%F0%9F%91%8B;I+build+reliable+cloud-native+platforms;Kubernetes+%E2%80%A2+IaC+%E2%80%A2+GitOps+%E2%80%A2+Cloud;Automating+the+boring+stuff;Security+baked+in%2C+not+bolted+on" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-aziz-bchini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@mohamedaziz0801"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://wa.me/33745512129"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="mailto:mohamedaziz0801@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
