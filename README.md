@@ -166,7 +166,6 @@ speaks:      [Arabic, French, English, Spanish]
 - 🔴 Mentored and wrote technical content at **Securinets**, INSAT's cybersecurity club
 - 🖥️ Kept the servers running as sysadmin of the **INSAT ACM Student Chapter**
 - 🪐 Built the platform behind **Orbit**, a national DevOps competition by IEEE INSAT
-- ✍️ Occasionally writing on [Medium](https://medium.com/@mohamedaziz0801)
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <p align="center">
