@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A3A7A,100:326CE5&height=220&section=header&text=Mohamed%20Aziz%20Bchini&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Platform%20Engineer%20%E2%80%A2%20Cloud%20Native%20%E2%80%A2%20Kubernetes&descSize=18&descAlignY=56" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A3A7A,100:326CE5&height=220&section=header&text=Mohamed%20Aziz%20Bchini&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Platform%20Engineer%20%E2%80%A2%20Cloud%20Native%20%E2%80%A2%20Kubernetes&descSize=18&descAlignY=56" width="100%" alt="Header"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,6 @@
   <a href="https://www.linkedin.com/in/mohamed-aziz-bchini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://medium.com/@mohamedaziz0801"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="mailto:mohamedaziz0801@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=mo-hamedaziz&label=Profile%20views&color=326CE5&style=for-the-badge" alt="Profile views"/>
 </p>
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
@@ -25,7 +24,6 @@ My corner of the world is where **Platform Engineering, DevOps, and SRE** meet. 
 
 ```yaml
 currently:   building Kubernetes platforms and operators ☸️
-recently:    Klastro @ Edixos, auto-graded Kubernetes sandboxes for hands-on assessments
 exploring:   [Kubernetes operators in Go, OpenTelemetry, CKAD prep]
 believes_in: [automation over toil, security by default, open source]
 alma_mater:  INSAT, Networks & Telecom engineering 🎓
@@ -63,17 +61,7 @@ speaks:      [Arabic, French, English, Spanish]
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🎯 Klastro</h3>
-      A hands-on cloud-native assessment platform. Every candidate gets an isolated Kubernetes sandbox, spun up and graded by custom operators in under a minute.
-      <br><br>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Talos-FF7300?style=flat-square&logo=talos&logoColor=white"/>
-      <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square"/>
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🪐 Orbit 1.0</h3>
       The platform behind a national DevOps competition for IEEE INSAT: secure multi-tenant sandboxes with virtual clusters and cloud shells, with challenges provisioned automatically.
       <br><br>
@@ -82,7 +70,7 @@ speaks:      [Arabic, French, English, Spanish]
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
       <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🏢 Multi-Tenant K8s</h3>
       A hub-spoke GitOps architecture with namespace isolation, ArgoCD delivery, Vault secrets, OPA Gatekeeper policies, and full observability.
       <br><br>
@@ -157,11 +145,11 @@ speaks:      [Arabic, French, English, Spanish]
 ## 📊 On GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mo-hamedaziz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=326CE5&icon_color=326CE5&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-hamedaziz&layout=compact&hide_border=true&bg_color=0D1117&title_color=326CE5&text_color=C9D1D9" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mo-hamedaziz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=326CE5&icon_color=326CE5&text_color=C9D1D9&disable_animations=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-hamedaziz&layout=compact&hide_border=true&bg_color=0D1117&title_color=326CE5&text_color=C9D1D9&disable_animations=true" alt="Top languages"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mo-hamedaziz&hide_border=true&background=0D1117&ring=326CE5&fire=326CE5&currStreakLabel=326CE5&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=mo-hamedaziz&hide_border=true&background=0D1117&ring=326CE5&fire=326CE5&currStreakLabel=326CE5&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&disable_animations=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
