@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/mo-hamedaziz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=326CE5&center=true&vCenter=true&width=640&lines=Hey+there!+I'm+Aziz+%F0%9F%91%8B;I+build+cloud-native+platforms+that+just+work;Kubernetes+%E2%80%A2+IaC+%E2%80%A2+GitOps+%E2%80%A2+SRE;Automating+the+boring+stuff%2C+one+operator+at+a+time;Security+baked+in%2C+not+bolted+on" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=326CE5&center=true&vCenter=true&width=640&lines=Hey+there!+I'm+Aziz+%F0%9F%91%8B;I+build+cloud-native+platforms+that+%2C+simply%2C++work;Kubernetes+%E2%80%A2+IaC+%E2%80%A2+GitOps+%E2%80%A2+SRE;Automating+the+boring+stuff;Security+baked+in%2C+not+bolted+on" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -145,7 +145,7 @@ speaks:      [Arabic, French, English, Spanish]
 ## 📊 On GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mo-hamedaziz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=326CE5&icon_color=326CE5&text_color=C9D1D9&disable_animations=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mo-hamedaziz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=326CE5&icon_color=326CE5&text_color=C9D1D9&disable_animations=true&hide_rank=true" alt="GitHub stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-hamedaziz&layout=compact&hide_border=true&bg_color=0D1117&title_color=326CE5&text_color=C9D1D9&disable_animations=true" alt="Top languages"/>
 </p>
 <p align="center">
